@@ -1,0 +1,1 @@
+export const erdesAdj = { hi : 1}
